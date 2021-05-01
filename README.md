@@ -19,6 +19,10 @@ im live in :brazil:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoaraujoo&layout=compact)](https://github.com/augustoaraujoo/github-readme-stats)
 
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/augusto-araujo-18243b1a6//)](https://www.linkedin.com/in/augusto-araujo-18243b1a6/)
+
+
 <!--
 **augustoaraujoo/augustoaraujoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !
 Here are some ideas to get you started:
