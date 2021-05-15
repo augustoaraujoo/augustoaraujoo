@@ -10,8 +10,7 @@ im live in :brazil:
 
   **Studying**
       
-   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width = 50> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width = 55> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width = 50>
-
+   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width = 50> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width = 55> 
 
   
 
