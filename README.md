@@ -9,7 +9,7 @@ Hi there 👋 :brazil:
 
   **Studying**
       
-   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width = 50> <img src = "" width = 55> 
+   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width = 50> 
 
   
 
