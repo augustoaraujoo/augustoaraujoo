@@ -10,6 +10,7 @@ Hi there 👋 :brazil:
   **Studying**
       
    <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width = 50> 
+    <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width = 50>
 
   
 
