@@ -1,6 +1,8 @@
 
-  
+  //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
   <img src ="https://www.soescola.com/wp-content/uploads/2020/08/Piramide-da-aprendizagem-Teoria-elenca-as-melhores-formas-de-estudar-e-aprender.png"> 
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  
   fonte:https://www.soescola.com/2020/08/piramide-da-aprendizagem-teoria-elenca-as-melhores-formas-de-estudar-e-aprender.html/piramide-da-aprendizagem-teoria-elenca-as-melhores-formas-de-estudar-e-aprender
   
   
