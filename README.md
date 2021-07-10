@@ -1,7 +1,10 @@
 
-   
+  
+  <img src ="https://www.soescola.com/wp-content/uploads/2020/08/Piramide-da-aprendizagem-Teoria-elenca-as-melhores-formas-de-estudar-e-aprender.png"> 
+  fonte:https://www.soescola.com/2020/08/piramide-da-aprendizagem-teoria-elenca-as-melhores-formas-de-estudar-e-aprender.html/piramide-da-aprendizagem-teoria-elenca-as-melhores-formas-de-estudar-e-aprender
+  
+  
 Hi there 👋 :brazil:
-   
   **Skills**
   
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  width = 46> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width = 46> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width = 38>
