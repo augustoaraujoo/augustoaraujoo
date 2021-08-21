@@ -1,5 +1,5 @@
 
-  <a href="https://www.soescola.com/2020/08/piramide-da-aprendizagem-teoria-elenca-as-melhores-formas-de-estudar-e-aprender.html/piramide-da-aprendizagem-teoria-elenca-as-melhores-formas-de-estudar-e-aprender"><img src ="https://www.soescola.com/wp-content/uploads/2020/08/Piramide-da-aprendizagem-Teoria-elenca-as-melhores-formas-de-estudar-e-aprender.png"></a> 
+
   
   
 
@@ -12,7 +12,7 @@
 
   **Studying**
       
-   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width = 50> 
+   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width = 50> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = 50>
 
   
 
