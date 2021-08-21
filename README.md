@@ -20,7 +20,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoaraujoo&layout=compact)](https://github.com/augustoaraujoo/github-readme-stats)
 
-
+<img src="https://image.flaticon.com/icons/png/512/5192/5192360.png" width="80"><img src="https://img-premium.flaticon.com/png/512/4205/premium/4205130.png?token=exp=1629574913~hmac=d58be33d9a3b7251652e7e4135f016c5" width="80">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/augusto-araujo-18243b1a6//)](https://www.linkedin.com/in/augusto-araujo-18243b1a6/)
 
