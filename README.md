@@ -2,7 +2,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustoaraujoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoaraujoo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  <br>
+  
+  ##
   <p align="left" >Skills</p>
 <div style="display: inline_block"><br>
   <a href="https://github.com/augustoaraujoo">
@@ -12,14 +13,14 @@
     <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
    </a>
 </div>
-  <br>
-  <p align="left" >Estudando</p>
+  <br
 <div style="display: block"><br>
   
   <a href="https://github.com/augustoaraujoo">
     <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   </a>
 </div>
   
