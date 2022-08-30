@@ -1,4 +1,5 @@
 
-**install my cli to streamline your backend projects**<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" />
+install my cli to streamline your backend
+<a href="https://www.npmjs.com/package/repo-express-example-node">projects</a>
 
-<a href="https://www.npmjs.com/package/repo-express-example-node">here :)</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" />
